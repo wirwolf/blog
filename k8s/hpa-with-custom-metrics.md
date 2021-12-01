@@ -69,7 +69,7 @@ kubectl get --raw /apis/custom.metrics.k8s.io/v1beta1 | jq .
 ```
 Если данные возвращаются значит у вас стоит [адаптер](https://github.com/kubernetes-sigs/prometheus-adapter) и можно продолжать дальше.
 Далее добавляем в чарт HPA
-```yaml
+```text
 {{ if (eq $.Values.horizontalPodAutoscaler.enabled true) }}
 apiVersion: monitoring.coreos.com/v1
 kind: PrometheusRule
