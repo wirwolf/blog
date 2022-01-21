@@ -6,3 +6,4 @@
 
 * https://github.com/opsgenie/kubernetes-event-exporter - експортирует ивенты куба в хранилище
 * https://github.com/bloomberg/goldpinger - постоянно пингует ноды куба и внешние dns. Удобно для траблшутинга сети 
+* https://habr.com/ru/company/oleg-bunin/blog/646111/
