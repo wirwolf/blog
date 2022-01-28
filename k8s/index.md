@@ -11,3 +11,4 @@
 * https://gist.github.com/max-rocket-internet/6a05ee757b6587668a1de8a5c177728b - графики ресурсов и request limit
 * https://kyverno.io/ - валидационные политики для деплойментов
 * https://k8syaml.com/ - генератор yaml манифестов
+* https://kubernetes.io/docs/reference/generated/kubectl/kubectl-commands - список всех команд kubectl с примерами
