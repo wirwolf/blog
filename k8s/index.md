@@ -10,3 +10,4 @@
 * https://litmuschaos.io/ - утила которая убивает поды, делает oom и т. д.
 * https://gist.github.com/max-rocket-internet/6a05ee757b6587668a1de8a5c177728b - графики ресурсов и request limit
 * https://kyverno.io/ - валидационные политики для деплойментов
+* https://k8syaml.com/ - генератор yaml манифестов
