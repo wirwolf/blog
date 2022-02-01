@@ -12,3 +12,4 @@
 * https://kyverno.io/ - валидационные политики для деплойментов
 * https://k8syaml.com/ - генератор yaml манифестов
 * https://kubernetes.io/docs/reference/generated/kubectl/kubectl-commands - список всех команд kubectl с примерами
+* https://hub.docker.com/r/praqma/network-multitool - образ для отладки сети 
