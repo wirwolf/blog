@@ -16,3 +16,4 @@
 * https://hub.docker.com/r/praqma/network-multitool - образ для отладки сети 
 * https://github.com/lwolf/kube-cleanup-operator - оператор для удаления под по опредетенным параметрам
 * https://github.com/devopsprodigy/kubegraf - крутые дашборды для куба
+* https://github.com/salesforce/sloop - визуализация ивентов
