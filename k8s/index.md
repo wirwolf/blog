@@ -17,3 +17,4 @@
 * https://github.com/lwolf/kube-cleanup-operator - оператор для удаления под по опредетенным параметрам
 * https://github.com/devopsprodigy/kubegraf - крутые дашборды для куба
 * https://github.com/salesforce/sloop - визуализация ивентов
+* https://jimmysong.io/kubernetes-handbook/guide/using-kubectl.html - ман по kubectl с графиком
