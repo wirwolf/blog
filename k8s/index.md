@@ -18,3 +18,6 @@
 * https://github.com/devopsprodigy/kubegraf - крутые дашборды для куба
 * https://github.com/salesforce/sloop - визуализация ивентов
 * https://jimmysong.io/kubernetes-handbook/guide/using-kubectl.html - ман по kubectl с графиком
+* https://skywalking.apache.org/ - AMP
+* https://github.com/pinpoint-apm/pinpoint - AMP
+* https://github.com/signoz/signoz - AMP
