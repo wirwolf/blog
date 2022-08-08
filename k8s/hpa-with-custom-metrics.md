@@ -112,3 +112,5 @@ spec:
 <img src="https://img.icons8.com/emoji/16/000000/warning-emoji.png"/>Важные моменты
  * метрика `{{ include "workers.hpa_metric_name" . }}_messages_waiting_in_queue` должна быть уникальна, чтоб система не конфликтовала если в неймспейсе есть другие hpa
  * Запрос к Prometheus должен отдавать одну запись. В случае когда запрос отдает несколько значений могут быть непредвиденное поведение 
+ Полезные статьи по этой теме:
+* https://itnext.io/horizontal-pod-autoscaling-with-custom-metric-from-different-namespace-f19f8446143b
